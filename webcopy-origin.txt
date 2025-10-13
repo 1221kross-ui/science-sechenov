@@ -1,0 +1,1068 @@
+Uri: https://analytics.lionsdigital.pro/usertrack/tracker.min.js
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\usertrack\tracker.min.js
+Content Type: application/javascript
+
+Uri: https://api-maps.yandex.ru/2.1/?lang=ru_RU
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\2.1\json.txt
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/48500177
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\watch\48500177
+Content Type: image/gif
+
+Uri: https://science.sechenov.ru/
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\index.htm
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/bionic.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\bionic.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/business.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\business.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/contacts.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\contacts.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/en/
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\en\index.htm
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/en/bionic.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\en\bionic.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/en/business.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\en\business.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/en/contacts.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\en\contacts.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/en/index.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\en\index.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/en/job.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\en\job.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/en/molecular.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\en\molecular.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/en/personalised.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\en\personalised.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/en/regenerative.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\en\regenerative.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/en/science.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\en\science.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/en/students.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\en\students.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/en/translational.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\en\translational.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/index.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\index.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/job.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\job.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/molecular.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\molecular.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/personalised.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\personalised.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/regenerative.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\regenerative.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/science.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\science.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/students.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\students.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/translational
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\translational-1.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/translational.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\translational.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/%23popup-icon-tel
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\#popup-icon-tel.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/bionic.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\bionic.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/business.css
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\business.css
+Content Type: text/css
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/business.js
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\business.js
+Content Type: application/javascript
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/common.css
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\common.css
+Content Type: text/css
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/common.js
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\common.js
+Content Type: application/javascript
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/contacts.css
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\contacts.css
+Content Type: text/css
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/contacts.js
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\contacts.js
+Content Type: application/javascript
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/index.css
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\index.css
+Content Type: text/css
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/index.js
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\index.js
+Content Type: application/javascript
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/job.css
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\job.css
+Content Type: text/css
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/job.js
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\job.js
+Content Type: application/javascript
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/molecular.css
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\molecular.css
+Content Type: text/css
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/molecular.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\molecular.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/molecular.js
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\molecular.js
+Content Type: application/javascript
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/personalised.css
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\personalised.css
+Content Type: text/css
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/personalised.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\personalised.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/personalised.js
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\personalised.js
+Content Type: application/javascript
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/regenerative.css
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\regenerative.css
+Content Type: text/css
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/regenerative.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\regenerative.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/regenerative.js
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\regenerative.js
+Content Type: application/javascript
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/science.css
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\science.css
+Content Type: text/css
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/science.js
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\science.js
+Content Type: application/javascript
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/fonts/museosanscyrl_300-webfont.woff2?80db6855eb6a202fe80d8848ae94e80c
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\fonts\museosanscyrl_300-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/fonts/museosanscyrl_300-webfont.woff?60cf257584f572a0090ceb4a1560f5cc
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\fonts\museosanscyrl_300-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/fonts/museosanscyrl_700-webfont.woff2?e4334d76c17d569d653d8c83637c7a87
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\fonts\museosanscyrl_700-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/fonts/museosanscyrl_700-webfont.woff?cb699f79b7708d05a9e38ef94340a56f
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\fonts\museosanscyrl_700-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/fonts/twentytwelve_sans_c-webfont.woff2?80b4b614d7fa8346c66928285364bf15
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\fonts\twentytwelve_sans_c-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/fonts/twentytwelve_sans_c-webfont.woff?fb9bbacb0dad0579d8db43f60da1736e
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\fonts\twentytwelve_sans_c-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/bioinfra-bg.jpg?cdfdd07589c11574a717090d7fa9fb7f
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\bioinfra-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/boss/timashev-250.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\boss\timashev-250.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/boss/timashev-470.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\boss\timashev-470.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/boss/timashev-500.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\boss\timashev-500.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/boss/timashev-940.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\boss\timashev-940.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/bulb.svg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\bulb.svg
+Content Type: image/svg+xml
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/business-art-photo.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\business-art-photo.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/business-end.jpg?5c6ca6853f98bddc4db8c52055531398
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\business-end.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/business-s6.jpg?1318cdec15a43e4cdfda02ef553e0021
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\business-s6.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/business-s7.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\business-s7.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/business-terms.jpg?f724e9b3e9d3b5672658f5f5f6d94d34
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\business-terms.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/business__structure/build-area.svg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\business__structure\build-area.svg
+Content Type: image/svg+xml
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/business__structure/graduate.svg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\business__structure\graduate.svg
+Content Type: image/svg+xml
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/business__structure/structure.svg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\business__structure\structure.svg
+Content Type: image/svg+xml
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/business__structure/team.svg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\business__structure\team.svg
+Content Type: image/svg+xml
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/business__structure/university.svg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\business__structure\university.svg
+Content Type: image/svg+xml
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/cardio-bg.jpg?86accbc76f95896576bb6b2a52dd3c58
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\cardio-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/conference-ppl.svg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\conference-ppl.svg
+Content Type: image/svg+xml
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/demo/sample-1.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\demo\sample-1.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/demo/sample-1@2x.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\demo\sample-1@2x.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/demo/sample-2.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\demo\sample-2.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/demo/sample-2@2x.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\demo\sample-2@2x.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/demo/sample-3.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\demo\sample-3.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/demo/sample-3@2x.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\demo\sample-3@2x.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/demo/sample-4.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\demo\sample-4.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/demo/sample-4@2x.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\demo\sample-4@2x.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/demo/sample-5.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\demo\sample-5.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/demo/sample-5@2x.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\demo\sample-5@2x.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/demo/scope@2x.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\demo\scope@2x.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/classical-building_1f3db.png?33cb381d7605e9c28764351be145aeec
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\classical-building_1f3db.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/closed-book_1f4d5.png?e5f8bf97b4e97a15a8a628b5a24d75cf
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\closed-book_1f4d5.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/emoji-biceps.png?e0e9076bd28dbe4d81719c6ca8806bd6
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\emoji-biceps.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/emoji-globe.png?fdbba936618c5b9fc2a82444e8dafdc9
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\emoji-globe.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/emoji-graduation-cap.png?c94919d2f893855a1983cfe76d3be988
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\emoji-graduation-cap.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/emoji-graph-red-increase.png?9d7f98f254de60464dbc59562ec0ab11
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\emoji-graph-red-increase.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/emoji-heart.png?e9fdc5d279cf3f5df611ac3848442056
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\emoji-heart.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/emoji-hospital.png?851d54db7efebf944b72d6e9cea66e33
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\emoji-hospital.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/emoji-house-with-garden.png?5ce67f47ef160369fbebfe31b30e2f38
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\emoji-house-with-garden.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/emoji-index-finger-top.png?e10f259e096363140758e6b0d17e4ef6
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\emoji-index-finger-top.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/emoji-microscope.png?7efb197f79e5520fcac36a62d9a6c7d2
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\emoji-microscope.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/emoji-money-bag.png?d9816fc462aaf99716cf0948c96af0a6
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\emoji-money-bag.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/emoji-ok.png?c25e022748d5a0907f1f82fd9916b2b2
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\emoji-ok.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/emoji-school.png?869ec042db2c953201b1601ea379e4a0
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\emoji-school.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/flag-ru.png?2f7a275a978deb35f41ce6fef7bf83e2
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\flag-ru.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/flag-uk.png?cfa53b35e37f93247769c5de8d23d6f4
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\flag-uk.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/handshake_1f91d.png?159d969371c68ceec31d5a741fc82fde
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\handshake_1f91d.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/lower-left-ballpoint-pen_1f58a.png?c7cab7340cef967dbb1cc6f9cfc54492
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\lower-left-ballpoint-pen_1f58a.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/money-with-wings_1f4b8.png?ad993171651500dc767a49e0c092257d
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\money-with-wings_1f4b8.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/open-book_1f4d6.png?6f22bf8fac42f208c69942e08bbcd3fc
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\open-book_1f4d6.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/page-with-curl_1f4c3.png?4b1364d6cb7fadb9959450bf14de6d3a
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\page-with-curl_1f4c3.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/rocket_1f680.png?bf40fcdc7c0dcbbed98e65e45b6e608a
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\rocket_1f680.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/scroll_1f4dc.png?7fb5cc992ff561c81c547ceeb323b39e
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\scroll_1f4dc.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/syringe_1f489.png?f42b0916505d1d296dd4cc5971bbcb77
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\syringe_1f489.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/television_1f4fa.png?a902d8cffd47013b9699492fdcd432f3
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\television_1f4fa.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/emoji/thumbs-up.png?e5efabf1036013fce77ad87b5cb02952
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\emoji\thumbs-up.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/end-bg-desk.jpg?71ec06da26913cecc488b9677af14efa
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\end-bg-desk.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/end-bg-tab.jpg?3d0d4f465ab94ecd45d1b2a2a81b3604
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\end-bg-tab.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/favicon/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/favicon/bionic.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\favicon\bionic.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/favicon/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/favicon/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/favicon/favicon.ico"
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\favicon\favicon.ico.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/favicon/molecular.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\favicon\molecular.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/favicon/personalised.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\favicon\personalised.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/favicon/regenerative.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\favicon\regenerative.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/favicon/translational.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\favicon\translational.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/header-business.jpg?d87405c16e1d251b17567bb198933c73
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\header-business.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/header-contacts.jpg?6902863a00a43ad7ff0ebdaca179010c
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\header-contacts.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/header-personalised.jpg?e7ddc902c6b6e65ecb61ee54b0fba79b
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\header-personalised.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/header.jpg?cb654a13a37762c1dc867868252b7364
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\header.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/inst.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\inst.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/inst@2x.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\inst@2x.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/job-s1/job-s1__bg.jpg?d92e0702c20a16229905ac91f3f8437b
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\job-s1\job-s1__bg.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/kopilov-photo/kopilov-250.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\kopilov-photo\kopilov-250.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/kopilov-photo/kopilov-470.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\kopilov-photo\kopilov-470.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/kopilov-photo/kopilov-500.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\kopilov-photo\kopilov-500.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/kopilov-photo/kopilov-940.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\kopilov-photo\kopilov-940.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/lionsdigital.svg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\lionsdigital.svg
+Content Type: image/svg+xml
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/logo/logo-landscape-blue_en.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\logo\logo-landscape-blue_en.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/logo/logo-landscape-blue_ru.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\logo\logo-landscape-blue_ru.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/logo/logo-landscape-white_en.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\logo\logo-landscape-white_en.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/logo/logo-landscape-white_ru.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\logo\logo-landscape-white_ru.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/logo/logo-portrait-blue_en.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\logo\logo-portrait-blue_en.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/logo/logo-portrait-blue_ru.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\logo\logo-portrait-blue_ru.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/logo/logo-portrait-white_en.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\logo\logo-portrait-white_en.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/logo/logo-portrait-white_ru.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\logo\logo-portrait-white_ru.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/logos/bioinfra@2x.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\logos\bioinfra@2x.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/logos/cardio@2x.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\logos\cardio@2x.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/logos/rocs@2x.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\logos\rocs@2x.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/publication-1.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\publication-1.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/publication-10.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\publication-10.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/publication-11.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\publication-11.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/publication-12.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\publication-12.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/publication-13.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\publication-13.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/publication-14.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\publication-14.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/publication-15.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\publication-15.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/publication-16.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\publication-16.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/publication-17.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\publication-17.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/publication-2.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\publication-2.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/publication-3.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\publication-3.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/publication-4.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\publication-4.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/publication-5.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\publication-5.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/publication-6.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\publication-6.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/publication-7.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\publication-7.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/publication-8.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\publication-8.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/publication-9.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\publication-9.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/service-1.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\service-1.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/service-2.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\service-2.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/service-3.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\service-3.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/service-4.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\service-4.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/service-5.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\service-5.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/service-6.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\service-6.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/molecular/slider-1_bg.jpg?1270e3f8b2ebb1b3af6b78cd00a20eff
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\molecular\slider-1_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/partners/logo-1.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\partners\logo-1.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/partners/logo-2.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\partners\logo-2.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/partners/logo-3.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\partners\logo-3.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/partners/logo-4.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\partners\logo-4.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/partners/logo-5.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\partners\logo-5.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/partners/logo-6.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\partners\logo-6.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/partners/logo-7.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\partners\logo-7.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/partners/logo-8.png
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\partners\logo-8.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/personalised-end.jpg?78107e0d6510d87ac94d05287a73fe71
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\personalised-end.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/personalised-s1/item-1.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\personalised-s1\item-1.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/personalised-s1/item-2.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\personalised-s1\item-2.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/personalised-s1/item-3.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\personalised-s1\item-3.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/personalised-s1/item-4.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\personalised-s1\item-4.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/personalised-s1/item-5.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\personalised-s1\item-5.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/personalised-s1/item-6.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\personalised-s1\item-6.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/personalised-s1/item-7.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\personalised-s1\item-7.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/personalised-s1/items-bg.svg?edc59638ffb7abc4a078db55c93142aa
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\personalised-s1\items-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/personalised-s2/icon-1.svg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\personalised-s2\icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/personalised-s2/icon-2.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\personalised-s2\icon-2.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/personalised-s2/icon-3.svg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\personalised-s2\icon-3.svg
+Content Type: image/svg+xml
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/personalised-s3/items-bg.svg?3f5cc5eae95f9ff6b95fe4406cc3b551
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\personalised-s3\items-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/personalised-s4/item-1.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\personalised-s4\item-1.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/personalised-s4/item-1_big.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\personalised-s4\item-1_big.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/personalised-s4/item-2.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\personalised-s4\item-2.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/personalised-s4/item-2_big.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\personalised-s4\item-2_big.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/personalised-s4/item-3.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\personalised-s4\item-3.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/personalised-s4/item-3_big.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\personalised-s4\item-3_big.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/personalised-s4/item-4.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\personalised-s4\item-4.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/personalised-s4/item-4_big.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\personalised-s4\item-4_big.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/popup/1.jpg?1a95d1d7dfe1a6752c3a1036c5134d88
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\popup\1.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/popup/2.jpg?c031fc6aa167674ed4b903033a7f0a68
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\popup\2.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/popup/3.jpg?6dc1786b8469d4d79628fe0a1c45ec8a
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\popup\3.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/popup/4.jpg?fb2ca4197f371724c780c489ec6f498e
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\popup\4.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/popup/5.jpg?462eae26e4eb2d976b1b3d5da18849af
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\popup\5.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/popup/6.jpg?758a3d24b56a8c8099a3bdc9b8034234
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\popup\6.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/regenerative/service-1.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\regenerative\service-1.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/regenerative/service-2.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\regenerative\service-2.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/regenerative/service-3.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\regenerative\service-3.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/regenerative/service-4.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\regenerative\service-4.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/regenerative/service-5.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\regenerative\service-5.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/regenerative/slider-1_bg.jpg?7cadfd9fb1a959a0813befc4f636a645
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\regenerative\slider-1_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/rocs-bg.jpg?8e8729459dbcf3cff47629bc04c2a636
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\rocs-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/school.svg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\school.svg
+Content Type: image/svg+xml
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/science-s1/science-s1__bg.jpg?d8ad30e7b156e6c77887792c6fdfeead
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\science-s1\science-s1__bg.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/sprite.png?f5d9d8eda24319e94b01f91807e3c956
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\sprite.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/sprite@2x.png?922c5135a2d72255e9e079735db8bfa2
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\sprite@2x.png
+Content Type: image/png
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/students-s1/students-s1__bg.jpg?5f8440ced56773c491f41acc71de008b
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\students-s1\students-s1__bg.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/students-s3/paper.svg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\students-s3\paper.svg
+Content Type: image/svg+xml
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/students-s3/students-s3__bg.jpg?ceb3d4e273b03907bbc08a9af8bdfbe9
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\students-s3\students-s3__bg.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/students-s5/icon-1.svg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\students-s5\icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/students-s5/icon-2.svg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\students-s5\icon-2.svg
+Content Type: image/svg+xml
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/students-s5/icon-3.svg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\students-s5\icon-3.svg
+Content Type: image/svg+xml
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/students-s5/icon-4.svg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\students-s5\icon-4.svg
+Content Type: image/svg+xml
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/students-s5/item-1.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\students-s5\item-1.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/students-s5/item-2.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\students-s5\item-2.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/students-s5/item-3.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\students-s5\item-3.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/students-s5/item-4.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\students-s5\item-4.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/students-s6/item-1.svg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\students-s6\item-1.svg
+Content Type: image/svg+xml
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/students-s6/item-2.svg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\students-s6\item-2.svg
+Content Type: image/svg+xml
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/students-s6/item-3.svg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\students-s6\item-3.svg
+Content Type: image/svg+xml
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/students-s7/students-s7__bg.jpg?cae7908d66c00b1619ee631532c1f277
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\students-s7\students-s7__bg.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/tarasov-photo/tarasov-250.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\tarasov-photo\tarasov-250.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/tarasov-photo/tarasov-470.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\tarasov-photo\tarasov-470.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/tarasov-photo/tarasov-500.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\tarasov-photo\tarasov-500.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/tarasov-photo/tarasov-940.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\tarasov-photo\tarasov-940.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/telishev-photo/telishev-250.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\telishev-photo\telishev-250.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/telishev-photo/telishev-470.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\telishev-photo\telishev-470.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/telishev-photo/telishev-500.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\telishev-photo\telishev-500.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/telishev-photo/telishev-940.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\telishev-photo\telishev-940.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/timashev-photo/timashev-250.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\timashev-photo\timashev-250.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/timashev-photo/timashev-470.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\timashev-photo\timashev-470.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/timashev-photo/timashev-500.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\timashev-photo\timashev-500.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/timashev-photo/timashev-940.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\timashev-photo\timashev-940.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/translational/first.jpg?55e7db7d154b375d54d6cc638f2f703b
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\translational\first.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/translational/service-1.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\translational\service-1.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/translational/service-2.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\translational\service-2.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/translational/service-3.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\translational\service-3.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/translational/service-4.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\translational\service-4.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/translational/service-5.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\translational\service-5.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/translational/service-6.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\translational\service-6.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/translational/service-7.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\translational\service-7.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/translational/service-8.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\translational\service-8.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/translational/slider-1_bg.jpg?3db2ecf472eb3621865062c51bbfe033
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\translational\slider-1_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/zamiatnin-photo/zamiatnin-250.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\zamiatnin-photo\zamiatnin-250.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/zamiatnin-photo/zamiatnin-470.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\zamiatnin-photo\zamiatnin-470.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/zamiatnin-photo/zamiatnin-500.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\zamiatnin-photo\zamiatnin-500.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/src/img/zamiatnin-photo/zamiatnin-940.jpg
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\src\img\zamiatnin-photo\zamiatnin-940.jpg
+Content Type: image/jpeg
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/students.css
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\students.css
+Content Type: text/css
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/students.js
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\students.js
+Content Type: application/javascript
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/translational.css
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\translational.css
+Content Type: text/css
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/translational.html
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\translational.html
+Content Type: text/html
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/translational.js
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\translational.js
+Content Type: application/javascript
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/vendor.css
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\vendor.css
+Content Type: text/css
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/vendor.js
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\vendor.js
+Content Type: application/javascript
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/vendor/styles/loading.gif?37e24e0370847870c1c43ea9ce19b1f4
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\vendor\styles\loading.gif
+Content Type: image/gif
+
+Uri: https://science.sechenov.ru/wp-content/themes/sechenov/vendor/styles/owl.video.play.png?4a37f8008959c75f619bf0a3a4e2d7a2
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\wp-content\themes\sechenov\vendor\styles\owl.video.play.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-149412137-1
+File Name: C:\Downloaded Web Sites\science.sechenov.ru\gtag\js
+Content Type: application/javascript
+
