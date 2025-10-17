@@ -1,4 +1,135 @@
-﻿.case {
+﻿.structure {
+  padding-top: 57px;
+  padding-bottom: 66px;
+}
+@media (min-width: 768px) {
+  .structure {
+    padding-top: 34px;
+    padding-bottom: 54px;
+  }
+}
+@media (min-width: 1200px) {
+  .structure {
+    padding-top: 96px;
+    padding-bottom: 116px;
+  }
+}
+.structure h1 {
+    font-size: 30px;
+    /* Чтобы текст влез */
+    margin-right: -2px;
+    margin-bottom: 63px;
+}
+@media (min-width: 768px) {
+  .structure h1 {
+    margin-right: 0;
+    margin-bottom: 84px;
+  }
+}
+@media (min-width: 1200px) {
+  .structure h1 {
+    font-size: 40px;
+  }
+}
+.structure h1 br {
+      display: none;
+}
+@media (min-width: 768px) and (max-width: 1199px) {
+  .structure h1 br {
+    display: block;
+  }
+}
+.structure__items {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    text-align: center;
+}
+@media (min-width: 768px) {
+  .structure__items {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+  }
+}
+@media (min-width: 1200px) {
+  .structure__items {
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    padding-left: 29px;
+    padding-right: 10px;
+  }
+}
+.structure figure {
+    margin-bottom: 80px;
+}
+@media (min-width: 768px) {
+  .structure figure {
+    -ms-flex-preferred-size: 33%;
+        flex-basis: 33%;
+    margin-bottom: 55px;
+  }
+}
+@media (min-width: 1200px) {
+  .structure figure {
+    -ms-flex-preferred-size: auto;
+        flex-basis: auto;
+    margin-bottom: 0;
+  }
+}
+.structure figure.structure__link-to {
+  margin-bottom: 0;
+}
+@media (max-width: 767px) {
+  .structure figure.structure__link-to .structure__image-wrap {
+          margin-bottom: 54px;
+  }
+}
+.structure figure.structure__link-to .link {
+        font-size: 13px;
+}
+@media (min-width: 768px) {
+  .structure figure:nth-child(4) {
+    margin-bottom: 0;
+  }
+}
+.structure figure .structure__image-wrap {
+      margin-bottom: 35px;
+}
+@media (min-width: 768px) {
+  .structure figure .structure__image-wrap {
+    min-height: 90px;
+    margin-bottom: 30px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+}
+
+.case {
   position: relative;
   padding-bottom: 4px;
 }
@@ -158,7 +289,7 @@
 
 .case__item--10 { background: #79BD9A; }
 /* Фоны производителей */
-
+<!--
 .case__item--rocs {
       background-image:
         -webkit-gradient(linear, left top, left bottom, from(rgba(0, 202, 245, 0.6)), to(rgba(0, 202, 245, 0.6))),
@@ -190,7 +321,7 @@
         url(src/img/bioinfra-bg.jpg);
       -webkit-box-shadow: 0 21px 40px -15px rgba(54, 168, 0, 0.3);
               box-shadow: 0 21px 40px -15px rgba(54, 168, 0, 0.3);
-    }
+    } -->
 
 .case__apply {
     /* Минус правый отсутствующий паддинг */
